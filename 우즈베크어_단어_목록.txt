@@ -1,0 +1,311 @@
+﻿한국어	우즈베크어
+가게	do'kon
+가구	mebel
+가방	sumka
+가수	qo'shiqchi
+갈비	qovurg'a
+감	xurmo
+개	it
+거실	Mehmonxona
+건물	bino
+고기	go'sht
+고양이	mushuk
+공원	park
+공책	daftar
+공항	samolyot
+과일	meva
+가요	qo'shiq
+가을	kuz
+가족	oila
+값	qiymat
+게임	o'yin
+겨울	qish
+고향	ona shahri
+교실	sinf xonasi
+구두	poyabzal
+구월	Sentyabr
+귀	quloq
+귤	mandarin
+그릇	kosa
+그림	rasm chizish
+극장	teatr
+글	yozuv
+기숙사	yotoqxona
+기차	poyezd
+길	yo'l
+김치	kimchi
+김치찌개	kimchi sho'rva
+나라	mamlakat
+나중	Keyinroq
+날씨	ob-havo
+남대문	Namdaemun
+남동생	ukasi
+남산	Namsan
+남자	erkak
+낮	tushdan keyin
+노래	qo'shiq aytish
+누나	katta opa
+눈	ko'z
+다리	oyoq
+다음	Keyingisi
+대사관	elchixona
+대학생	akademik
+대화	suhbat
+독일	Germaniya
+돈	pul
+동생	kichik ukasi
+드라마	drama
+등산	toqqa chiqish
+떡볶이	tteokbokki
+러시아	Rossiya
+메뉴	menyu
+며칠	Bir necha kun
+목	bo'yin
+목욕탕	vannalar
+문	eshik
+물건	narsa
+미국	AQSh
+바나나	banan
+바람	shamol
+바지	shimlar
+밤	kecha; oqshom
+방학	ta'til
+배	qorin; qorin
+배우	aktyor
+베트남	Vetnam
+병	kasallik
+병원	kasalxona
+볼펜	sharikli ruchka
+봄	bahor
+부엌	oshxona
+불	olov
+비	yomg'ir
+비빔밥	Bibimbap
+비행기	samolyot
+빵	non
+사과	olma
+사람	odam
+사무실	ofis
+사용	foydalanish
+사월	Aprel
+사진	rasm
+산	tog'
+산책	sayr qilish
+삼계탕	Samgyetang
+삼월	Mart
+생신	Tug'ilgan kun
+생일	tug'ilgan kun
+서점	kitob do'koni
+선생님	o'qituvchi
+세수	Yuzimni yuvish
+소금	tuz
+손	qo'l
+손님	mijoz
+쇼핑	xarid qilish
+수박	tarvuz
+수업	sinf
+수영	suzish
+수영장	suzish havzasi
+숙제	uy vazifasi
+술	alkogol
+슈퍼마켓	supermarket
+스키	chang'i
+시월	Oktyabr
+시작	boshlash
+시장	bozor
+시청	hokimiyat
+시험	sinov
+식사	ovqat
+십이월	Dekabr
+십일월	Noyabr
+아기	chaqaloq
+아내	xotin
+아래	ostida
+아버지	ota
+아이	bola; bola
+아침	ertalab
+아파트	kvartira
+안	ichida
+안경	ko'zoynak
+안내	qo'llanma
+야구	beysbol
+약국	dorixona
+어머니	ona
+언니	katta opa
+얼굴	yuz
+에어컨	havo sovutish
+여름	yoz
+여자	ayol
+여행	sayohat
+여행사	sayohat agentligi
+역	bekat; to'xtash joyi
+연필	qalam
+열쇠	kalit
+영	nol
+영국	Buyuk Britaniya
+영어	inglizcha
+영화	film
+영화관	kino
+영화배우	kino aktyori
+옆	yon tomon
+오렌지	to'q sariq
+오른쪽	o'ng
+오빠	Oppa
+오월	May
+오전	ertalab
+오후	tushdan keyin
+옷	kiyimlar
+외국	xorijiy mamlakat
+외국어	chet tili
+왼쪽	chapga
+요리	pishirish
+우산	soyabon
+우유	sut
+우체국	pochta
+우표	muhr
+운동장	o'yin maydonchasi
+운동화	krossovkalar
+운전	haydash
+위	yuqori qism; yuqori qism
+유월	Iyun
+은행	bank
+음식	oziq-ovqat
+의사	shifokor; shifokor
+의자	stul
+이월	ga o'tkazildi
+일본	Yaponiya
+일월	Yanvar
+입	og'iz
+자전거	velosiped
+잔	shisha
+잠	uyqu
+저녁	kechki ovqat
+전화	telefon qo'ng'irog'i
+점심	tushlik
+졸업	bitiruvchi
+종업원	xodim
+주말	dam olish kunlari
+주부	uy bekasi
+주스	sharbat
+중국	chinni
+지갑	hamyon
+지난해	O'tkan yili
+지우개	o'chirg'ich
+지하철	metro
+지하철역	metro bekati
+직업	ish
+직원	xodim
+질문	savol
+집	uy
+창문	deraza
+책	kitob
+책상	stol
+청소	tozalash
+초대	taklifnoma
+초콜릿	shokolad
+축구	futbol
+축하	tabriklayman
+출발	ketish
+춤	raqsga tushish
+취미	sevimli mashg'ulot
+치마	yubka
+친절	mehribonlik
+칠월	Iyul
+칠판	qora doska
+침대	yotoq
+카드	karta
+카메라	kamera
+캐나다	Kanada
+커피숍	qahvaxona
+컴퓨터	kompyuter
+컵	chashka
+케이크	tort
+코	burun
+콜라	kola
+키	balandlik
+탁구	stol tennisi
+태국	Tailand
+택시	taksi
+테니스	tennis
+텔레비전	televizor
+티셔츠	futbolka
+파티	ziyofat
+팔	sakkiz
+팔월	Avgust
+편의점	qulaylik do'koni
+편지	xat
+포도	uzum
+표	chipta
+프랑스	Fransiya
+피곤	charchagan
+피아노	pianino
+필요	zarur
+학생	talaba
+학생증	Talaba guvohnomasi
+한국	Koreya
+한복	Hanbok
+할머니	buvi
+할아버지	bobo
+형	aka
+호텔	mehmonxona
+화장실	hojatxona
+회사원	xodim
+회의	uchrashuv; konferensiya
+후	keyin
+가위	qaychi
+간식	gazak
+간장	soya sousi
+간호사	hamshira
+갈색	jigarrang
+감기약	shamollash uchun dori
+감자	kartoshka
+강	daryo
+강아지	kuchukcha
+물	suv
+밥	guruch
+계란	tuxum
+딸기	qulupnay
+토마토	pomidor
+당근	sabzi
+양파	piyoz
+오이	bodring
+생선	baliq
+치즈	pishloq
+토끼	quyon
+코끼리	fil
+기린	jirafa
+원숭이	maymun
+사자	sher
+나무	daraxt
+꽃	gul
+태양	quyosh
+달	oy
+별	yulduz
+냉장고	muzlatgich
+세탁기	kir yuvish mashinasi
+시계	soat
+휴대폰	Mobil telefon
+숟가락	qoshiq
+젓가락	tayoqchalar
+포크	vilka
+칼	pichoq
+비누	sovun
+수건	sochiq
+모자	shlyapa
+양말	paypoqlar
+셔츠	ko'ylak
+장갑	qo'lqoplar
+버스	avtobus
+자동차	avtomobil
+오토바이	mototsikl
+학교	maktab
+어깨	yelka
+무릎	tizza
+머리카락	soch
+이	tish
+웃다	kulgi
+울다	yig'lamoq
+앉다	o'tirish
+서다	stend
+크다	katta
+작다	kichik bo'lish

@@ -1885,7 +1885,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "samolyot",
+        "word": "aeroport",
         "definition": ""
       },
       "kk": {
@@ -2683,7 +2683,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "qiymat",
+        "word": "narx",
         "definition": ""
       },
       "kk": {
@@ -3348,7 +3348,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "ona shahri",
+        "word": "ona shahar",
         "definition": ""
       },
       "kk": {
@@ -3481,7 +3481,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "sinf xonasi",
+        "word": "sinfxona",
         "definition": ""
       },
       "kk": {
@@ -4279,7 +4279,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "rasm chizish",
+        "word": "rasm",
         "definition": ""
       },
       "kk": {
@@ -5875,7 +5875,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "ukasi",
+        "word": "uka",
         "definition": ""
       },
       "kk": {
@@ -6407,7 +6407,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "tushdan keyin",
+        "word": "kunduzi",
         "definition": ""
       },
       "kk": {
@@ -6540,7 +6540,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "qo'shiq aytish",
+        "word": "qo'shiq",
         "definition": ""
       },
       "kk": {
@@ -6673,7 +6673,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "katta opa",
+        "word": "opa",
         "definition": ""
       },
       "kk": {
@@ -7072,7 +7072,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "Keyingisi",
+        "word": "Keyingi",
         "definition": ""
       },
       "kk": {
@@ -7604,7 +7604,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "akademik",
+        "word": "universitet talabasi",
         "definition": ""
       },
       "kk": {
@@ -8269,7 +8269,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "kichik ukasi",
+        "word": "uka-singil",
         "definition": ""
       },
       "kk": {
@@ -9599,7 +9599,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "vannalar",
+        "word": "vanna",
         "definition": ""
       },
       "kk": {
@@ -10663,7 +10663,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "shimlar",
+        "word": "shim",
         "definition": ""
       },
       "kk": {
@@ -10929,7 +10929,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "kecha; oqshom",
+        "word": "tun",
         "definition": ""
       },
       "kk": {
@@ -11328,7 +11328,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "qorin; qorin",
+        "word": "qorin",
         "definition": ""
       },
       "kk": {
@@ -12126,7 +12126,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "sharikli ruchka",
+        "word": "ruchka",
         "definition": ""
       },
       "kk": {
@@ -15584,7 +15584,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "Yuzimni yuvish",
+        "word": "Yuzni yuvish",
         "definition": ""
       },
       "kk": {
@@ -16382,7 +16382,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "sinf",
+        "word": "dars",
         "definition": ""
       },
       "kk": {
@@ -17978,7 +17978,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "sinov",
+        "word": "imtihon",
         "definition": ""
       },
       "kk": {
@@ -18244,7 +18244,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "ovqat",
+        "word": "ovqatlanish",
         "definition": ""
       },
       "kk": {
@@ -19175,7 +19175,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "bola; bola",
+        "word": "bola",
         "definition": ""
       },
       "kk": {
@@ -19840,7 +19840,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "ichida",
+        "word": "ichi",
         "definition": ""
       },
       "kk": {
@@ -20638,7 +20638,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "katta opa",
+        "word": "opa",
         "definition": ""
       },
       "kk": {
@@ -20904,7 +20904,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "havo sovutish",
+        "word": "konditsioner",
         "definition": ""
       },
       "kk": {
@@ -21569,7 +21569,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "bekat; to'xtash joyi",
+        "word": "bekat",
         "definition": ""
       },
       "kk": {
@@ -22367,7 +22367,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "inglizcha",
+        "word": "ingliz tili",
         "definition": ""
       },
       "kk": {
@@ -22500,7 +22500,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "film",
+        "word": "kino",
         "definition": ""
       },
       "kk": {
@@ -22633,7 +22633,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "kino",
+        "word": "kinoteatr",
         "definition": ""
       },
       "kk": {
@@ -22899,7 +22899,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "yon tomon",
+        "word": "yoni",
         "definition": ""
       },
       "kk": {
@@ -23032,7 +23032,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "to'q sariq",
+        "word": "apelsin",
         "definition": ""
       },
       "kk": {
@@ -23165,7 +23165,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "o'ng",
+        "word": "o'ng tomon",
         "definition": ""
       },
       "kk": {
@@ -23298,7 +23298,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "Oppa",
+        "word": "aka",
         "definition": ""
       },
       "kk": {
@@ -23564,7 +23564,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "ertalab",
+        "word": "tushdan oldin",
         "definition": ""
       },
       "kk": {
@@ -23830,7 +23830,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "kiyimlar",
+        "word": "kiyim",
         "definition": ""
       },
       "kk": {
@@ -23963,7 +23963,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "xorijiy mamlakat",
+        "word": "chet el",
         "definition": ""
       },
       "kk": {
@@ -24362,7 +24362,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "chapga",
+        "word": "chap tomon",
         "definition": ""
       },
       "kk": {
@@ -24894,7 +24894,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "pochta",
+        "word": "pochtaxona",
         "definition": ""
       },
       "kk": {
@@ -25027,7 +25027,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "muhr",
+        "word": "marka",
         "definition": ""
       },
       "kk": {
@@ -25293,7 +25293,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "krossovkalar",
+        "word": "krossovka",
         "definition": ""
       },
       "kk": {
@@ -25559,7 +25559,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "yuqori qism; yuqori qism",
+        "word": "usti",
         "definition": ""
       },
       "kk": {
@@ -25958,7 +25958,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "oziq-ovqat",
+        "word": "ovqat",
         "definition": ""
       },
       "kk": {
@@ -26091,7 +26091,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "shifokor; shifokor",
+        "word": "shifokor",
         "definition": ""
       },
       "kk": {
@@ -26357,7 +26357,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "ga o'tkazildi",
+        "word": "fevral",
         "definition": ""
       },
       "kk": {
@@ -27022,7 +27022,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "shisha",
+        "word": "stakan",
         "definition": ""
       },
       "kk": {
@@ -27421,7 +27421,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "kechki ovqat",
+        "word": "kechqurun",
         "definition": ""
       },
       "kk": {
@@ -27687,7 +27687,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "tushlik",
+        "word": "tush vaqti",
         "definition": ""
       },
       "kk": {
@@ -27953,7 +27953,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "bitiruvchi",
+        "word": "bitiruv",
         "definition": ""
       },
       "kk": {
@@ -28086,7 +28086,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "xodim",
+        "word": "ofitsiant",
         "definition": ""
       },
       "kk": {
@@ -28751,7 +28751,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "chinni",
+        "word": "Xitoy",
         "definition": ""
       },
       "kk": {
@@ -29815,7 +29815,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "ish",
+        "word": "kasb",
         "definition": ""
       },
       "kk": {
@@ -30879,7 +30879,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "taklifnoma",
+        "word": "taklif",
         "definition": ""
       },
       "kk": {
@@ -31278,7 +31278,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "tabriklayman",
+        "word": "tabrik",
         "definition": ""
       },
       "kk": {
@@ -31411,7 +31411,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "ketish",
+        "word": "ketish, jo’nash",
         "definition": ""
       },
       "kk": {
@@ -31544,7 +31544,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "raqsga tushish",
+        "word": "raqs",
         "definition": ""
       },
       "kk": {
@@ -32475,7 +32475,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "yotoq",
+        "word": "krovat",
         "definition": ""
       },
       "kk": {
@@ -34071,7 +34071,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "balandlik",
+        "word": "bo’y, balandlik",
         "definition": ""
       },
       "kk": {
@@ -35268,7 +35268,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "sakkiz",
+        "word": "qo'l",
         "definition": ""
       },
       "kk": {
@@ -36199,7 +36199,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "charchagan",
+        "word": "charchoq",
         "definition": ""
       },
       "kk": {
@@ -36465,7 +36465,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "zarur",
+        "word": "zaruriyat",
         "definition": ""
       },
       "kk": {
@@ -38327,7 +38327,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "uchrashuv; konferensiya",
+        "word": "majlis",
         "definition": ""
       },
       "kk": {
@@ -39524,7 +39524,7 @@ const ALL_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "shamollash uchun dori",
+        "word": "shamollashga qarshi dori",
         "definition": ""
       },
       "kk": {

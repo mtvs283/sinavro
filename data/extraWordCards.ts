@@ -4197,7 +4197,7 @@ export const EXTRA_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "paypoqlar",
+        "word": "paypoq",
         "definition": ""
       },
       "kk": {
@@ -4463,7 +4463,7 @@ export const EXTRA_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "qo'lqoplar",
+        "word": "qo'lqop",
         "definition": ""
       },
       "kk": {
@@ -5660,7 +5660,7 @@ export const EXTRA_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "kulgi",
+        "word": "kulmoq",
         "definition": ""
       },
       "kk": {
@@ -5926,7 +5926,7 @@ export const EXTRA_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "o'tirish",
+        "word": "o'tirmoq",
         "definition": ""
       },
       "kk": {
@@ -6059,7 +6059,7 @@ export const EXTRA_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "stend",
+        "word": "tik turmoq",
         "definition": ""
       },
       "kk": {
@@ -6325,7 +6325,7 @@ export const EXTRA_WORD_CARDS: WordCard[] = [
       },
       "uz": {
         "language": "우즈베크어",
-        "word": "kichik bo'lish",
+        "word": "kichkina",
         "definition": ""
       },
       "kk": {

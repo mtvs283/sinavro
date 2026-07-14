@@ -19,6 +19,15 @@ type MoveSnapshot = {
 const MATCH_SCORE = 100;
 const COMBO_BONUS = 25;
 const DEFAULT_DIFFICULTY: GameDifficulty = "intermediate";
+let activePronunciation: HTMLAudioElement | null = null;
+
+function playPronunciation(groupId: string, voice: "female" | "male") {
+  activePronunciation?.pause();
+  activePronunciation = new Audio(`/audio/korean/${groupId}-${voice}.mp3`);
+  void activePronunciation.play().catch(() => {
+    activePronunciation = null;
+  });
+}
 
 export function useMahjong() {
   const [tiles, setTiles] = useState<MahjongTileData[]>([]);
@@ -74,6 +83,7 @@ export function useMahjong() {
       return;
     }
 
+    playPronunciation(tile.groupId, selectedIds.length === 0 ? "female" : "male");
     setHintIds([]);
 
     if (selectedIds.includes(tileId)) {
