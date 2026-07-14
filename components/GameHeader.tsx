@@ -94,9 +94,9 @@ export function GameHeader({
             value={difficulty}
             onChange={(event) => onDifficultyChange(event.target.value as GameDifficulty)}
           >
-            <option value="beginner">초급 · 10쌍</option>
-            <option value="intermediate">중급 · 15쌍</option>
-            <option value="advanced">고급 · 20쌍</option>
+            <option value="beginner">간단 · 10쌍</option>
+            <option value="intermediate">보통 · 15쌍</option>
+            <option value="advanced">많음 · 20쌍</option>
           </select>
         </label>
         <label className="language-control">
