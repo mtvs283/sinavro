@@ -1,0 +1,28 @@
+import type { SupportedLanguageCode } from "@/data/wordCards";
+
+export const LANGUAGE_OPTIONS: { code: SupportedLanguageCode; label: string }[] = [
+  { code: "en", label: "English" },
+  { code: "ja", label: "日本語" },
+  { code: "zh", label: "中文" },
+  { code: "fr", label: "Français" },
+  { code: "es", label: "Español" },
+  { code: "ar", label: "العربية" },
+  { code: "mn", label: "Монгол" },
+  { code: "vi", label: "Tiếng Việt" },
+  { code: "th", label: "ไทย" },
+  { code: "ru", label: "Русский" },
+  { code: "id", label: "Bahasa Indonesia" },
+  { code: "zhHant", label: "繁體中文" },
+  { code: "uz", label: "O‘zbek" },
+  { code: "kk", label: "Қазақша" },
+  { code: "ky", label: "Кыргызча" },
+  { code: "ne", label: "नेपाली" },
+  { code: "my", label: "မြန်မာ" },
+  { code: "km", label: "ភាសាខ្មែរ" },
+  { code: "fil", label: "Filipino" },
+  { code: "hi", label: "हिन्दी" },
+  { code: "bn", label: "বাংলা" },
+  { code: "de", label: "Deutsch" },
+  { code: "sw", label: "Kiswahili" },
+  { code: "ha", label: "Hausa" },
+];

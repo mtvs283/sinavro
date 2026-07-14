@@ -1,0 +1,13 @@
+﻿node_modules/
+.next/
+out/
+tmp/
+
+*.inspect.ndjson
+번역_오류_검수목록.xlsx
+data/translations-24.xlsx
+시나브로_실행.bat
+
+.env*
+
+~$*.xlsx

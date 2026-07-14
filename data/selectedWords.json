@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "word-1",
+    "korean": "가게",
+    "level": "1급",
+    "imagePrompt": "shop",
+    "imageSrc": "/cards/shop.png"
+  },
+  {
+    "id": "word-3",
+    "korean": "가구",
+    "level": "1급",
+    "imagePrompt": "furniture",
+    "imageSrc": "/cards/furniture.png"
+  },
+  {
+    "id": "word-7",
+    "korean": "가방",
+    "level": "1급",
+    "imagePrompt": "bag",
+    "imageSrc": "/cards/bag.png"
+  },
+  {
+    "id": "word-9",
+    "korean": "가수",
+    "level": "1급",
+    "imagePrompt": "singer",
+    "imageSrc": "/cards/singer.png"
+  },
+  {
+    "id": "word-17",
+    "korean": "갈비",
+    "level": "1급",
+    "imagePrompt": "galbi",
+    "imageSrc": "/cards/galbi.png"
+  },
+  {
+    "id": "word-20",
+    "korean": "감",
+    "level": "1급",
+    "imagePrompt": "persimmon",
+    "imageSrc": "/cards/persimmon.png"
+  },
+  {
+    "id": "word-26",
+    "korean": "개",
+    "level": "1급",
+    "imagePrompt": "dog",
+    "imageSrc": "/cards/dog.png"
+  },
+  {
+    "id": "word-29",
+    "korean": "거실",
+    "level": "1급",
+    "imagePrompt": "living room",
+    "imageSrc": "/cards/living-room.png"
+  },
+  {
+    "id": "word-32",
+    "korean": "건물",
+    "level": "1급",
+    "imagePrompt": "building",
+    "imageSrc": "/cards/building.png"
+  },
+  {
+    "id": "word-43",
+    "korean": "고기",
+    "level": "1급",
+    "imagePrompt": "meat",
+    "imageSrc": "/cards/meat.png"
+  },
+  {
+    "id": "word-46",
+    "korean": "고양이",
+    "level": "1급",
+    "imagePrompt": "cat",
+    "imageSrc": "/cards/cat.png"
+  },
+  {
+    "id": "word-51",
+    "korean": "공원",
+    "level": "1급",
+    "imagePrompt": "park",
+    "imageSrc": "/cards/park.png"
+  },
+  {
+    "id": "word-52",
+    "korean": "공책",
+    "level": "1급",
+    "imagePrompt": "notebook",
+    "imageSrc": "/cards/notebook.png"
+  },
+  {
+    "id": "word-53",
+    "korean": "공항",
+    "level": "1급",
+    "imagePrompt": "airport",
+    "imageSrc": "/cards/airport.png"
+  },
+  {
+    "id": "word-54",
+    "korean": "과일",
+    "level": "1급",
+    "imagePrompt": "fruit",
+    "imageSrc": "/cards/fruit.png"
+  },
+  {
+    "id": "word-10",
+    "korean": "가요",
+    "level": "1급",
+    "imagePrompt": "Korean popular song",
+    "imageSrc": "/cards/generated/word-10.png"
+  },
+  {
+    "id": "word-12",
+    "korean": "가을",
+    "level": "1급",
+    "imagePrompt": "fall",
+    "imageSrc": "/cards/generated/word-12.png"
+  },
+  {
+    "id": "word-14",
+    "korean": "가족",
+    "level": "1급",
+    "imagePrompt": "family",
+    "imageSrc": "/cards/generated/word-14.png"
+  },
+  {
+    "id": "word-21",
+    "korean": "감기",
+    "level": "1급",
+    "imagePrompt": "cold",
+    "imageSrc": "/cards/generated/word-21.png"
+  },
+  {
+    "id": "word-23",
+    "korean": "값",
+    "level": "1급",
+    "imagePrompt": "price",
+    "imageSrc": "/cards/generated/word-23.png"
+  },
+  {
+    "id": "word-31",
+    "korean": "건너편",
+    "level": "1급",
+    "imagePrompt": "opposite side",
+    "imageSrc": "/cards/generated/word-31.png"
+  },
+  {
+    "id": "word-37",
+    "korean": "게임",
+    "level": "1급",
+    "imagePrompt": "game",
+    "imageSrc": "/cards/generated/word-37.png"
+  },
+  {
+    "id": "word-38",
+    "korean": "겨울",
+    "level": "1급",
+    "imagePrompt": "winter",
+    "imageSrc": "/cards/generated/word-38.png"
+  },
+  {
+    "id": "word-41",
+    "korean": "계절",
+    "level": "1급",
+    "imagePrompt": "season",
+    "imageSrc": "/cards/generated/word-41.png"
+  },
+  {
+    "id": "word-48",
+    "korean": "고향",
+    "level": "1급",
+    "imagePrompt": "home",
+    "imageSrc": "/cards/generated/word-48.png"
+  },
+  {
+    "id": "word-56",
+    "korean": "교실",
+    "level": "1급",
+    "imagePrompt": "classroom",
+    "imageSrc": "/cards/generated/word-56.png"
+  },
+  {
+    "id": "word-60",
+    "korean": "구두",
+    "level": "1급",
+    "imagePrompt": "shoes",
+    "imageSrc": "/cards/generated/word-60.png"
+  },
+  {
+    "id": "word-62",
+    "korean": "구월",
+    "level": "1급",
+    "imagePrompt": "September",
+    "imageSrc": "/cards/generated/word-62.png"
+  },
+  {
+    "id": "word-65",
+    "korean": "귀",
+    "level": "1급",
+    "imagePrompt": "ear",
+    "imageSrc": "/cards/generated/word-65.png"
+  },
+  {
+    "id": "word-66",
+    "korean": "귤",
+    "level": "1급",
+    "imagePrompt": "tangerine",
+    "imageSrc": "/cards/generated/word-66.png"
+  },
+  {
+    "id": "word-78",
+    "korean": "그릇",
+    "level": "1급",
+    "imagePrompt": "bowl",
+    "imageSrc": "/cards/generated/word-78.png"
+  },
+  {
+    "id": "word-81",
+    "korean": "그림",
+    "level": "1급",
+    "imagePrompt": "drawing",
+    "imageSrc": "/cards/generated/word-81.png"
+  },
+  {
+    "id": "word-84",
+    "korean": "극장",
+    "level": "1급",
+    "imagePrompt": "theater",
+    "imageSrc": "/cards/generated/word-84.png"
+  },
+  {
+    "id": "word-86",
+    "korean": "글",
+    "level": "1급",
+    "imagePrompt": "writing",
+    "imageSrc": "/cards/generated/word-86.png"
+  },
+  {
+    "id": "word-93",
+    "korean": "기숙사",
+    "level": "1급",
+    "imagePrompt": "dormitory",
+    "imageSrc": "/cards/generated/word-93.png"
+  },
+  {
+    "id": "word-94",
+    "korean": "기차",
+    "level": "1급",
+    "imagePrompt": "train",
+    "imageSrc": "/cards/generated/word-94.png"
+  },
+  {
+    "id": "word-95",
+    "korean": "길",
+    "level": "1급",
+    "imagePrompt": "road",
+    "imageSrc": "/cards/generated/word-95.png"
+  },
+  {
+    "id": "word-98",
+    "korean": "김치",
+    "level": "1급",
+    "imagePrompt": "kimchi",
+    "imageSrc": "/cards/generated/word-98.png"
+  },
+  {
+    "id": "word-99",
+    "korean": "김치찌개",
+    "level": "1급",
+    "imagePrompt": "kimchi jjigae",
+    "imageSrc": "/cards/generated/word-99.png"
+  },
+  {
+    "id": "word-108",
+    "korean": "나라",
+    "level": "1급",
+    "imagePrompt": "country",
+    "imageSrc": "/cards/generated/word-108.png"
+  },
+  {
+    "id": "word-112",
+    "korean": "나중",
+    "level": "1급",
+    "imagePrompt": "next time",
+    "imageSrc": "/cards/generated/word-112.png"
+  },
+  {
+    "id": "word-114",
+    "korean": "날씨",
+    "level": "1급",
+    "imagePrompt": "weather",
+    "imageSrc": "/cards/generated/word-114.png"
+  },
+  {
+    "id": "word-116",
+    "korean": "남대문",
+    "level": "1급",
+    "imagePrompt": "Namdaemun Gate",
+    "imageSrc": "/cards/generated/word-116.png"
+  },
+  {
+    "id": "word-117",
+    "korean": "남동생",
+    "level": "1급",
+    "imagePrompt": "younger brother",
+    "imageSrc": "/cards/generated/word-117.png"
+  },
+  {
+    "id": "word-118",
+    "korean": "남산",
+    "level": "1급",
+    "imagePrompt": "Namsan Mountain",
+    "imageSrc": "/cards/generated/word-118.png"
+  },
+  {
+    "id": "word-119",
+    "korean": "남자",
+    "level": "1급",
+    "imagePrompt": "man",
+    "imageSrc": "/cards/generated/word-119.png"
+  },
+  {
+    "id": "word-120",
+    "korean": "남편",
+    "level": "1급",
+    "imagePrompt": "husband",
+    "imageSrc": "/cards/generated/word-120.png"
+  },
+  {
+    "id": "word-121",
+    "korean": "낮",
+    "level": "1급",
+    "imagePrompt": "day",
+    "imageSrc": "/cards/generated/word-121.png"
+  },
+  {
+    "id": "word-136",
+    "korean": "노래",
+    "level": "1급",
+    "imagePrompt": "song",
+    "imageSrc": "/cards/generated/word-136.png"
+  },
+  {
+    "id": "word-142",
+    "korean": "누나",
+    "level": "1급",
+    "imagePrompt": "elder sister",
+    "imageSrc": "/cards/generated/word-142.png"
+  },
+  {
+    "id": "word-143",
+    "korean": "눈",
+    "level": "1급",
+    "imagePrompt": "eye",
+    "imageSrc": "/cards/generated/word-143.png"
+  },
+  {
+    "id": "word-152",
+    "korean": "다리",
+    "level": "1급",
+    "imagePrompt": "leg",
+    "imageSrc": "/cards/generated/word-152.png"
+  },
+  {
+    "id": "word-155",
+    "korean": "다음",
+    "level": "1급",
+    "imagePrompt": "next",
+    "imageSrc": "/cards/generated/word-155.png"
+  },
+  {
+    "id": "word-162",
+    "korean": "대사관",
+    "level": "1급",
+    "imagePrompt": "embassy",
+    "imageSrc": "/cards/generated/word-162.png"
+  },
+  {
+    "id": "word-163",
+    "korean": "대학",
+    "level": "1급",
+    "imagePrompt": "university",
+    "imageSrc": "/cards/generated/word-163.png"
+  },
+  {
+    "id": "word-164",
+    "korean": "대학교",
+    "level": "1급",
+    "imagePrompt": "university",
+    "imageSrc": "/cards/generated/word-164.png"
+  },
+  {
+    "id": "word-165",
+    "korean": "대학생",
+    "level": "1급",
+    "imagePrompt": "college student",
+    "imageSrc": "/cards/generated/word-165.png"
+  },
+  {
+    "id": "word-166",
+    "korean": "대화",
+    "level": "1급",
+    "imagePrompt": "dialogue",
+    "imageSrc": "/cards/generated/word-166.png"
+  },
+  {
+    "id": "word-172",
+    "korean": "독일",
+    "level": "1급",
+    "imagePrompt": "Germany",
+    "imageSrc": "/cards/generated/word-172.png"
+  },
+  {
+    "id": "word-173",
+    "korean": "돈",
+    "level": "1급",
+    "imagePrompt": "money",
+    "imageSrc": "/cards/generated/word-173.png"
+  },
+  {
+    "id": "word-177",
+    "korean": "동대문",
+    "level": "1급",
+    "imagePrompt": "Dongdaemun Gate",
+    "imageSrc": "/cards/generated/word-177.png"
+  },
+  {
+    "id": "word-178",
+    "korean": "동생",
+    "level": "1급",
+    "imagePrompt": "brother",
+    "imageSrc": "/cards/generated/word-178.png"
+  },
+  {
+    "id": "word-185",
+    "korean": "드라마",
+    "level": "1급",
+    "imagePrompt": "drama",
+    "imageSrc": "/cards/generated/word-185.png"
+  },
+  {
+    "id": "word-192",
+    "korean": "등산",
+    "level": "1급",
+    "imagePrompt": "hike",
+    "imageSrc": "/cards/generated/word-192.png"
+  },
+  {
+    "id": "word-194",
+    "korean": "딸",
+    "level": "1급",
+    "imagePrompt": "daughter",
+    "imageSrc": "/cards/generated/word-194.png"
+  },
+  {
+    "id": "word-197",
+    "korean": "떡볶이",
+    "level": "1급",
+    "imagePrompt": "tteokbokki",
+    "imageSrc": "/cards/generated/word-197.png"
+  },
+  {
+    "id": "word-200",
+    "korean": "러시아",
+    "level": "1급",
+    "imagePrompt": "Russia",
+    "imageSrc": "/cards/generated/word-200.png"
+  },
+  {
+    "id": "word-221",
+    "korean": "머리",
+    "level": "1급",
+    "imagePrompt": "head",
+    "imageSrc": "/cards/generated/word-221.png"
+  },
+  {
+    "id": "word-226",
+    "korean": "메뉴",
+    "level": "1급",
+    "imagePrompt": "menu",
+    "imageSrc": "/cards/generated/word-226.png"
+  },
+  {
+    "id": "word-227",
+    "korean": "며칠",
+    "level": "1급",
+    "imagePrompt": "date",
+    "imageSrc": "/cards/generated/word-227.png"
+  },
+  {
+    "id": "word-234",
+    "korean": "목",
+    "level": "1급",
+    "imagePrompt": "neck",
+    "imageSrc": "/cards/generated/word-234.png"
+  },
+  {
+    "id": "word-236",
+    "korean": "목욕탕",
+    "level": "1급",
+    "imagePrompt": "bathhouse",
+    "imageSrc": "/cards/generated/word-236.png"
+  },
+  {
+    "id": "word-237",
+    "korean": "몸",
+    "level": "1급",
+    "imagePrompt": "body",
+    "imageSrc": "/cards/generated/word-237.png"
+  },
+  {
+    "id": "word-244",
+    "korean": "문",
+    "level": "1급",
+    "imagePrompt": "door",
+    "imageSrc": "/cards/generated/word-244.png"
+  },
+  {
+    "id": "word-248",
+    "korean": "물건",
+    "level": "1급",
+    "imagePrompt": "article",
+    "imageSrc": "/cards/generated/word-248.png"
+  },
+  {
+    "id": "word-250",
+    "korean": "미국",
+    "level": "1급",
+    "imagePrompt": "the United States",
+    "imageSrc": "/cards/generated/word-250.png"
+  },
+  {
+    "id": "word-252",
+    "korean": "미용실",
+    "level": "1급",
+    "imagePrompt": "beauty parlor",
+    "imageSrc": "/cards/generated/word-252.png"
+  },
+  {
+    "id": "word-255",
+    "korean": "바나나",
+    "level": "1급",
+    "imagePrompt": "banana",
+    "imageSrc": "/cards/generated/word-255.png"
+  },
+  {
+    "id": "word-257",
+    "korean": "바람",
+    "level": "1급",
+    "imagePrompt": "wind",
+    "imageSrc": "/cards/generated/word-257.png"
+  },
+  {
+    "id": "word-260",
+    "korean": "바지",
+    "level": "1급",
+    "imagePrompt": "pants",
+    "imageSrc": "/cards/generated/word-260.png"
+  },
+  {
+    "id": "word-267",
+    "korean": "발",
+    "level": "1급",
+    "imagePrompt": "foot",
+    "imageSrc": "/cards/generated/word-267.png"
+  },
+  {
+    "id": "word-268",
+    "korean": "밤",
+    "level": "1급",
+    "imagePrompt": "night",
+    "imageSrc": "/cards/generated/word-268.png"
+  },
+  {
+    "id": "word-270",
+    "korean": "방",
+    "level": "1급",
+    "imagePrompt": "room",
+    "imageSrc": "/cards/generated/word-270.png"
+  },
+  {
+    "id": "word-271",
+    "korean": "방학",
+    "level": "1급",
+    "imagePrompt": "vacation",
+    "imageSrc": "/cards/generated/word-271.png"
+  },
+  {
+    "id": "word-272",
+    "korean": "배",
+    "level": "1급",
+    "imagePrompt": "abdomen",
+    "imageSrc": "/cards/generated/word-272.png"
+  },
+  {
+    "id": "word-275",
+    "korean": "배우",
+    "level": "1급",
+    "imagePrompt": "actor",
+    "imageSrc": "/cards/generated/word-275.png"
+  },
+  {
+    "id": "word-279",
+    "korean": "백화점",
+    "level": "1급",
+    "imagePrompt": "department store",
+    "imageSrc": "/cards/generated/word-279.png"
+  },
+  {
+    "id": "word-283",
+    "korean": "베트남",
+    "level": "1급",
+    "imagePrompt": "Vietnam",
+    "imageSrc": "/cards/generated/word-283.png"
+  },
+  {
+    "id": "word-285",
+    "korean": "병",
+    "level": "1급",
+    "imagePrompt": "disease",
+    "imageSrc": "/cards/generated/word-285.png"
+  },
+  {
+    "id": "word-287",
+    "korean": "병원",
+    "level": "1급",
+    "imagePrompt": "hospital",
+    "imageSrc": "/cards/generated/word-287.png"
+  },
+  {
+    "id": "word-292",
+    "korean": "볼펜",
+    "level": "1급",
+    "imagePrompt": "ballpoint pen",
+    "imageSrc": "/cards/generated/word-292.png"
+  },
+  {
+    "id": "word-293",
+    "korean": "봄",
+    "level": "1급",
+    "imagePrompt": "spring",
+    "imageSrc": "/cards/generated/word-293.png"
+  },
+  {
+    "id": "word-297",
+    "korean": "부엌",
+    "level": "1급",
+    "imagePrompt": "kitchen",
+    "imageSrc": "/cards/generated/word-297.png"
+  },
+  {
+    "id": "word-301",
+    "korean": "불",
+    "level": "1급",
+    "imagePrompt": "fire",
+    "imageSrc": "/cards/generated/word-301.png"
+  },
+  {
+    "id": "word-304",
+    "korean": "비",
+    "level": "1급",
+    "imagePrompt": "rain",
+    "imageSrc": "/cards/generated/word-304.png"
+  },
+  {
+    "id": "word-305",
+    "korean": "비빔밥",
+    "level": "1급",
+    "imagePrompt": "bibimbap",
+    "imageSrc": "/cards/generated/word-305.png"
+  },
+  {
+    "id": "word-307",
+    "korean": "비행기",
+    "level": "1급",
+    "imagePrompt": "plane",
+    "imageSrc": "/cards/generated/word-307.png"
+  },
+  {
+    "id": "word-311",
+    "korean": "빵",
+    "level": "1급",
+    "imagePrompt": "bread",
+    "imageSrc": "/cards/generated/word-311.png"
+  },
+  {
+    "id": "word-313",
+    "korean": "사과",
+    "level": "1급",
+    "imagePrompt": "apple",
+    "imageSrc": "/cards/generated/word-313.png"
+  },
+  {
+    "id": "word-316",
+    "korean": "사람",
+    "level": "1급",
+    "imagePrompt": "human",
+    "imageSrc": "/cards/generated/word-316.png"
+  },
+  {
+    "id": "word-318",
+    "korean": "사무실",
+    "level": "1급",
+    "imagePrompt": "office",
+    "imageSrc": "/cards/generated/word-318.png"
+  },
+  {
+    "id": "word-320",
+    "korean": "사용",
+    "level": "1급",
+    "imagePrompt": "use",
+    "imageSrc": "/cards/generated/word-320.png"
+  },
+  {
+    "id": "word-321",
+    "korean": "사월",
+    "level": "1급",
+    "imagePrompt": "April",
+    "imageSrc": "/cards/generated/word-321.png"
+  },
+  {
+    "id": "word-322",
+    "korean": "사이",
+    "level": "1급",
+    "imagePrompt": "space",
+    "imageSrc": "/cards/generated/word-322.png"
+  },
+  {
+    "id": "word-323",
+    "korean": "사이다",
+    "level": "1급",
+    "imagePrompt": "soda pop",
+    "imageSrc": "/cards/generated/word-323.png"
+  },
+  {
+    "id": "word-325",
+    "korean": "사진",
+    "level": "1급",
+    "imagePrompt": "picture",
+    "imageSrc": "/cards/generated/word-325.png"
+  },
+  {
+    "id": "word-326",
+    "korean": "산",
+    "level": "1급",
+    "imagePrompt": "mountain",
+    "imageSrc": "/cards/generated/word-326.png"
+  },
+  {
+    "id": "word-327",
+    "korean": "산책",
+    "level": "1급",
+    "imagePrompt": "walk",
+    "imageSrc": "/cards/generated/word-327.png"
+  },
+  {
+    "id": "word-331",
+    "korean": "삼계탕",
+    "level": "1급",
+    "imagePrompt": "samgyetang",
+    "imageSrc": "/cards/generated/word-331.png"
+  },
+  {
+    "id": "word-333",
+    "korean": "삼월",
+    "level": "1급",
+    "imagePrompt": "March",
+    "imageSrc": "/cards/generated/word-333.png"
+  },
+  {
+    "id": "word-335",
+    "korean": "생신",
+    "level": "1급",
+    "imagePrompt": "birthday",
+    "imageSrc": "/cards/generated/word-335.png"
+  },
+  {
+    "id": "word-336",
+    "korean": "생일",
+    "level": "1급",
+    "imagePrompt": "birthday",
+    "imageSrc": "/cards/generated/word-336.png"
+  },
+  {
+    "id": "word-338",
+    "korean": "샤워",
+    "level": "1급",
+    "imagePrompt": "shower",
+    "imageSrc": "/cards/generated/word-338.png"
+  },
+  {
+    "id": "word-340",
+    "korean": "서울",
+    "level": "1급",
+    "imagePrompt": "capital",
+    "imageSrc": "/cards/generated/word-340.png"
+  },
+  {
+    "id": "word-341",
+    "korean": "서점",
+    "level": "1급",
+    "imagePrompt": "bookstore",
+    "imageSrc": "/cards/generated/word-341.png"
+  },
+  {
+    "id": "word-343",
+    "korean": "선생님",
+    "level": "1급",
+    "imagePrompt": "teacher",
+    "imageSrc": "/cards/generated/word-343.png"
+  },
+  {
+    "id": "word-346",
+    "korean": "세수",
+    "level": "1급",
+    "imagePrompt": "washing up",
+    "imageSrc": "/cards/generated/word-346.png"
+  },
+  {
+    "id": "word-349",
+    "korean": "소금",
+    "level": "1급",
+    "imagePrompt": "salt",
+    "imageSrc": "/cards/generated/word-349.png"
+  },
+  {
+    "id": "word-350",
+    "korean": "손",
+    "level": "1급",
+    "imagePrompt": "hand",
+    "imageSrc": "/cards/generated/word-350.png"
+  },
+  {
+    "id": "word-351",
+    "korean": "손님",
+    "level": "1급",
+    "imagePrompt": "visitor",
+    "imageSrc": "/cards/generated/word-351.png"
+  },
+  {
+    "id": "word-352",
+    "korean": "쇼핑",
+    "level": "1급",
+    "imagePrompt": "shopping",
+    "imageSrc": "/cards/generated/word-352.png"
+  },
+  {
+    "id": "word-353",
+    "korean": "수박",
+    "level": "1급",
+    "imagePrompt": "watermelon",
+    "imageSrc": "/cards/generated/word-353.png"
+  },
+  {
+    "id": "word-354",
+    "korean": "수업",
+    "level": "1급",
+    "imagePrompt": "class",
+    "imageSrc": "/cards/generated/word-354.png"
+  },
+  {
+    "id": "word-355",
+    "korean": "수영",
+    "level": "1급",
+    "imagePrompt": "swimming",
+    "imageSrc": "/cards/generated/word-355.png"
+  },
+  {
+    "id": "word-356",
+    "korean": "수영장",
+    "level": "1급",
+    "imagePrompt": "swimming pool",
+    "imageSrc": "/cards/generated/word-356.png"
+  },
+  {
+    "id": "word-358",
+    "korean": "수첩",
+    "level": "1급",
+    "imagePrompt": "pocket notebook",
+    "imageSrc": "/cards/generated/word-358.png"
+  },
+  {
+    "id": "word-359",
+    "korean": "숙제",
+    "level": "1급",
+    "imagePrompt": "homework",
+    "imageSrc": "/cards/generated/word-359.png"
+  },
+  {
+    "id": "word-360",
+    "korean": "술",
+    "level": "1급",
+    "imagePrompt": "alcohol",
+    "imageSrc": "/cards/generated/word-360.png"
+  },
+  {
+    "id": "word-363",
+    "korean": "슈퍼마켓",
+    "level": "1급",
+    "imagePrompt": "supermarket",
+    "imageSrc": "/cards/generated/word-363.png"
+  },
+  {
+    "id": "word-365",
+    "korean": "스키",
+    "level": "1급",
+    "imagePrompt": "ski",
+    "imageSrc": "/cards/generated/word-365.png"
+  },
+  {
+    "id": "word-371",
+    "korean": "시월",
+    "level": "1급",
+    "imagePrompt": "October",
+    "imageSrc": "/cards/generated/word-371.png"
+  },
+  {
+    "id": "word-372",
+    "korean": "시작",
+    "level": "1급",
+    "imagePrompt": "start",
+    "imageSrc": "/cards/generated/word-372.png"
+  },
+  {
+    "id": "word-373",
+    "korean": "시장",
+    "level": "1급",
+    "imagePrompt": "market",
+    "imageSrc": "/cards/generated/word-373.png"
+  },
+  {
+    "id": "word-374",
+    "korean": "시청",
+    "level": "1급",
+    "imagePrompt": "city hall",
+    "imageSrc": "/cards/generated/word-374.png"
+  },
+  {
+    "id": "word-376",
+    "korean": "시험",
+    "level": "1급",
+    "imagePrompt": "test",
+    "imageSrc": "/cards/generated/word-376.png"
+  },
+  {
+    "id": "word-377",
+    "korean": "식당",
+    "level": "1급",
+    "imagePrompt": "cafeteria",
+    "imageSrc": "/cards/generated/word-377.png"
+  },
+  {
+    "id": "word-378",
+    "korean": "식사",
+    "level": "1급",
+    "imagePrompt": "meal",
+    "imageSrc": "/cards/generated/word-378.png"
+  },
+  {
+    "id": "word-387",
+    "korean": "십이월",
+    "level": "1급",
+    "imagePrompt": "December",
+    "imageSrc": "/cards/generated/word-387.png"
+  },
+  {
+    "id": "word-388",
+    "korean": "십일월",
+    "level": "1급",
+    "imagePrompt": "November",
+    "imageSrc": "/cards/generated/word-388.png"
+  },
+  {
+    "id": "word-397",
+    "korean": "아기",
+    "level": "1급",
+    "imagePrompt": "baby",
+    "imageSrc": "/cards/generated/word-397.png"
+  },
+  {
+    "id": "word-398",
+    "korean": "아내",
+    "level": "1급",
+    "imagePrompt": "wife",
+    "imageSrc": "/cards/generated/word-398.png"
+  },
+  {
+    "id": "word-401",
+    "korean": "아래",
+    "level": "1급",
+    "imagePrompt": "bottom",
+    "imageSrc": "/cards/generated/word-401.png"
+  },
+  {
+    "id": "word-404",
+    "korean": "아버지",
+    "level": "1급",
+    "imagePrompt": "father",
+    "imageSrc": "/cards/generated/word-404.png"
+  },
+  {
+    "id": "word-405",
+    "korean": "아이",
+    "level": "1급",
+    "imagePrompt": "child",
+    "imageSrc": "/cards/generated/word-405.png"
+  },
+  {
+    "id": "word-407",
+    "korean": "아저씨",
+    "level": "1급",
+    "imagePrompt": "uncle",
+    "imageSrc": "/cards/generated/word-407.png"
+  },
+  {
+    "id": "word-409",
+    "korean": "아주머니",
+    "level": "1급",
+    "imagePrompt": "aunt",
+    "imageSrc": "/cards/generated/word-409.png"
+  },
+  {
+    "id": "word-411",
+    "korean": "아침",
+    "level": "1급",
+    "imagePrompt": "morning",
+    "imageSrc": "/cards/generated/word-411.png"
+  },
+  {
+    "id": "word-412",
+    "korean": "아파트",
+    "level": "1급",
+    "imagePrompt": "apartment",
+    "imageSrc": "/cards/generated/word-412.png"
+  },
+  {
+    "id": "word-416",
+    "korean": "안",
+    "level": "1급",
+    "imagePrompt": "inside",
+    "imageSrc": "/cards/generated/word-416.png"
+  },
+  {
+    "id": "word-418",
+    "korean": "안경",
+    "level": "1급",
+    "imagePrompt": "glasses",
+    "imageSrc": "/cards/generated/word-418.png"
+  },
+  {
+    "id": "word-419",
+    "korean": "안내",
+    "level": "1급",
+    "imagePrompt": "introduction",
+    "imageSrc": "/cards/generated/word-419.png"
+  },
+  {
+    "id": "word-426",
+    "korean": "야구",
+    "level": "1급",
+    "imagePrompt": "baseball",
+    "imageSrc": "/cards/generated/word-426.png"
+  },
+  {
+    "id": "word-429",
+    "korean": "약국",
+    "level": "1급",
+    "imagePrompt": "pharmacy",
+    "imageSrc": "/cards/generated/word-429.png"
+  },
+  {
+    "id": "word-436",
+    "korean": "어머니",
+    "level": "1급",
+    "imagePrompt": "mother",
+    "imageSrc": "/cards/generated/word-436.png"
+  },
+  {
+    "id": "word-440",
+    "korean": "언니",
+    "level": "1급",
+    "imagePrompt": "older sister",
+    "imageSrc": "/cards/generated/word-440.png"
+  },
+  {
+    "id": "word-442",
+    "korean": "얼굴",
+    "level": "1급",
+    "imagePrompt": "face",
+    "imageSrc": "/cards/generated/word-442.png"
+  },
+  {
+    "id": "word-446",
+    "korean": "에어컨",
+    "level": "1급",
+    "imagePrompt": "air conditioner",
+    "imageSrc": "/cards/generated/word-446.png"
+  },
+  {
+    "id": "word-454",
+    "korean": "여름",
+    "level": "1급",
+    "imagePrompt": "summer",
+    "imageSrc": "/cards/generated/word-454.png"
+  },
+  {
+    "id": "word-457",
+    "korean": "여자",
+    "level": "1급",
+    "imagePrompt": "woman",
+    "imageSrc": "/cards/generated/word-457.png"
+  },
+  {
+    "id": "word-458",
+    "korean": "여행",
+    "level": "1급",
+    "imagePrompt": "travel",
+    "imageSrc": "/cards/generated/word-458.png"
+  },
+  {
+    "id": "word-459",
+    "korean": "여행사",
+    "level": "1급",
+    "imagePrompt": "travel agency",
+    "imageSrc": "/cards/generated/word-459.png"
+  },
+  {
+    "id": "word-460",
+    "korean": "역",
+    "level": "1급",
+    "imagePrompt": "station",
+    "imageSrc": "/cards/generated/word-460.png"
+  },
+  {
+    "id": "word-461",
+    "korean": "연극",
+    "level": "1급",
+    "imagePrompt": "play",
+    "imageSrc": "/cards/generated/word-461.png"
+  },
+  {
+    "id": "word-463",
+    "korean": "연필",
+    "level": "1급",
+    "imagePrompt": "pencil",
+    "imageSrc": "/cards/generated/word-463.png"
+  },
+  {
+    "id": "word-466",
+    "korean": "열쇠",
+    "level": "1급",
+    "imagePrompt": "key",
+    "imageSrc": "/cards/generated/word-466.png"
+  },
+  {
+    "id": "word-468",
+    "korean": "영",
+    "level": "1급",
+    "imagePrompt": "zero",
+    "imageSrc": "/cards/generated/word-468.png"
+  },
+  {
+    "id": "word-469",
+    "korean": "영국",
+    "level": "1급",
+    "imagePrompt": "England",
+    "imageSrc": "/cards/generated/word-469.png"
+  },
+  {
+    "id": "word-470",
+    "korean": "영어",
+    "level": "1급",
+    "imagePrompt": "English",
+    "imageSrc": "/cards/generated/word-470.png"
+  },
+  {
+    "id": "word-471",
+    "korean": "영화",
+    "level": "1급",
+    "imagePrompt": "film",
+    "imageSrc": "/cards/generated/word-471.png"
+  },
+  {
+    "id": "word-472",
+    "korean": "영화관",
+    "level": "1급",
+    "imagePrompt": "movie theater",
+    "imageSrc": "/cards/generated/word-472.png"
+  },
+  {
+    "id": "word-473",
+    "korean": "영화배우",
+    "level": "1급",
+    "imagePrompt": "film actor",
+    "imageSrc": "/cards/generated/word-473.png"
+  },
+  {
+    "id": "word-474",
+    "korean": "옆",
+    "level": "1급",
+    "imagePrompt": "side",
+    "imageSrc": "/cards/generated/word-474.png"
+  },
+  {
+    "id": "word-480",
+    "korean": "오렌지",
+    "level": "1급",
+    "imagePrompt": "orange",
+    "imageSrc": "/cards/generated/word-480.png"
+  },
+  {
+    "id": "word-481",
+    "korean": "오른쪽",
+    "level": "1급",
+    "imagePrompt": "right",
+    "imageSrc": "/cards/generated/word-481.png"
+  },
+  {
+    "id": "word-482",
+    "korean": "오빠",
+    "level": "1급",
+    "imagePrompt": "elder brother",
+    "imageSrc": "/cards/generated/word-482.png"
+  },
+  {
+    "id": "word-484",
+    "korean": "오월",
+    "level": "1급",
+    "imagePrompt": "May",
+    "imageSrc": "/cards/generated/word-484.png"
+  },
+  {
+    "id": "word-485",
+    "korean": "오전",
+    "level": "1급",
+    "imagePrompt": "morning",
+    "imageSrc": "/cards/generated/word-485.png"
+  },
+  {
+    "id": "word-486",
+    "korean": "오후",
+    "level": "1급",
+    "imagePrompt": "afternoon",
+    "imageSrc": "/cards/generated/word-486.png"
+  },
+  {
+    "id": "word-489",
+    "korean": "옷",
+    "level": "1급",
+    "imagePrompt": "clothes",
+    "imageSrc": "/cards/generated/word-489.png"
+  },
+  {
+    "id": "word-492",
+    "korean": "외국",
+    "level": "1급",
+    "imagePrompt": "foreign country",
+    "imageSrc": "/cards/generated/word-492.png"
+  },
+  {
+    "id": "word-493",
+    "korean": "외국어",
+    "level": "1급",
+    "imagePrompt": "foreign language",
+    "imageSrc": "/cards/generated/word-493.png"
+  },
+  {
+    "id": "word-494",
+    "korean": "외국인",
+    "level": "1급",
+    "imagePrompt": "foreigner",
+    "imageSrc": "/cards/generated/word-494.png"
+  },
+  {
+    "id": "word-495",
+    "korean": "왼쪽",
+    "level": "1급",
+    "imagePrompt": "left",
+    "imageSrc": "/cards/generated/word-495.png"
+  },
+  {
+    "id": "word-496",
+    "korean": "요리",
+    "level": "1급",
+    "imagePrompt": "cooking",
+    "imageSrc": "/cards/generated/word-496.png"
+  },
+  {
+    "id": "word-500",
+    "korean": "우산",
+    "level": "1급",
+    "imagePrompt": "umbrella",
+    "imageSrc": "/cards/generated/word-500.png"
+  },
+  {
+    "id": "word-501",
+    "korean": "우유",
+    "level": "1급",
+    "imagePrompt": "milk",
+    "imageSrc": "/cards/generated/word-501.png"
+  },
+  {
+    "id": "word-502",
+    "korean": "우체국",
+    "level": "1급",
+    "imagePrompt": "post office",
+    "imageSrc": "/cards/generated/word-502.png"
+  },
+  {
+    "id": "word-503",
+    "korean": "우표",
+    "level": "1급",
+    "imagePrompt": "postage stamp",
+    "imageSrc": "/cards/generated/word-503.png"
+  },
+  {
+    "id": "word-505",
+    "korean": "운동장",
+    "level": "1급",
+    "imagePrompt": "playground",
+    "imageSrc": "/cards/generated/word-505.png"
+  },
+  {
+    "id": "word-506",
+    "korean": "운동화",
+    "level": "1급",
+    "imagePrompt": "running shoes",
+    "imageSrc": "/cards/generated/word-506.png"
+  },
+  {
+    "id": "word-507",
+    "korean": "운전",
+    "level": "1급",
+    "imagePrompt": "driving",
+    "imageSrc": "/cards/generated/word-507.png"
+  },
+  {
+    "id": "word-513",
+    "korean": "위",
+    "level": "1급",
+    "imagePrompt": "top",
+    "imageSrc": "/cards/generated/word-513.png"
+  },
+  {
+    "id": "word-515",
+    "korean": "유월",
+    "level": "1급",
+    "imagePrompt": "June",
+    "imageSrc": "/cards/generated/word-515.png"
+  },
+  {
+    "id": "word-518",
+    "korean": "은행",
+    "level": "1급",
+    "imagePrompt": "bank",
+    "imageSrc": "/cards/generated/word-518.png"
+  },
+  {
+    "id": "word-521",
+    "korean": "음식",
+    "level": "1급",
+    "imagePrompt": "food",
+    "imageSrc": "/cards/generated/word-521.png"
+  },
+  {
+    "id": "word-523",
+    "korean": "의사",
+    "level": "1급",
+    "imagePrompt": "doctor",
+    "imageSrc": "/cards/generated/word-523.png"
+  },
+  {
+    "id": "word-524",
+    "korean": "의자",
+    "level": "1급",
+    "imagePrompt": "chair",
+    "imageSrc": "/cards/generated/word-524.png"
+  },
+  {
+    "id": "word-533",
+    "korean": "이월",
+    "level": "1급",
+    "imagePrompt": "February",
+    "imageSrc": "/cards/generated/word-533.png"
+  },
+  {
+    "id": "word-545",
+    "korean": "일본",
+    "level": "1급",
+    "imagePrompt": "Japan",
+    "imageSrc": "/cards/generated/word-545.png"
+  },
+  {
+    "id": "word-548",
+    "korean": "일월",
+    "level": "1급",
+    "imagePrompt": "January",
+    "imageSrc": "/cards/generated/word-548.png"
+  },
+  {
+    "id": "word-553",
+    "korean": "입",
+    "level": "1급",
+    "imagePrompt": "mouth",
+    "imageSrc": "/cards/generated/word-553.png"
+  },
+  {
+    "id": "word-558",
+    "korean": "자전거",
+    "level": "1급",
+    "imagePrompt": "bicycle",
+    "imageSrc": "/cards/generated/word-558.png"
+  },
+  {
+    "id": "word-562",
+    "korean": "잔",
+    "level": "1급",
+    "imagePrompt": "cup",
+    "imageSrc": "/cards/generated/word-562.png"
+  },
+  {
+    "id": "word-566",
+    "korean": "잠",
+    "level": "1급",
+    "imagePrompt": "sleep",
+    "imageSrc": "/cards/generated/word-566.png"
+  },
+  {
+    "id": "word-571",
+    "korean": "장소",
+    "level": "1급",
+    "imagePrompt": "place",
+    "imageSrc": "/cards/generated/word-571.png"
+  },
+  {
+    "id": "word-579",
+    "korean": "저녁",
+    "level": "1급",
+    "imagePrompt": "evening",
+    "imageSrc": "/cards/generated/word-579.png"
+  },
+  {
+    "id": "word-584",
+    "korean": "전화",
+    "level": "1급",
+    "imagePrompt": "call",
+    "imageSrc": "/cards/generated/word-584.png"
+  },
+  {
+    "id": "word-586",
+    "korean": "점심",
+    "level": "1급",
+    "imagePrompt": "lunch",
+    "imageSrc": "/cards/generated/word-586.png"
+  },
+  {
+    "id": "word-587",
+    "korean": "정류장",
+    "level": "1급",
+    "imagePrompt": "stop",
+    "imageSrc": "/cards/generated/word-587.png"
+  },
+  {
+    "id": "word-594",
+    "korean": "졸업",
+    "level": "1급",
+    "imagePrompt": "graduation",
+    "imageSrc": "/cards/generated/word-594.png"
+  },
+  {
+    "id": "word-596",
+    "korean": "종업원",
+    "level": "1급",
+    "imagePrompt": "employee",
+    "imageSrc": "/cards/generated/word-596.png"
+  },
+  {
+    "id": "word-603",
+    "korean": "주말",
+    "level": "1급",
+    "imagePrompt": "weekend",
+    "imageSrc": "/cards/generated/word-603.png"
+  },
+  {
+    "id": "word-605",
+    "korean": "주부",
+    "level": "1급",
+    "imagePrompt": "homemaker",
+    "imageSrc": "/cards/generated/word-605.png"
+  },
+  {
+    "id": "word-607",
+    "korean": "주스",
+    "level": "1급",
+    "imagePrompt": "juice",
+    "imageSrc": "/cards/generated/word-607.png"
+  },
+  {
+    "id": "word-608",
+    "korean": "주인",
+    "level": "1급",
+    "imagePrompt": "owner",
+    "imageSrc": "/cards/generated/word-608.png"
+  },
+  {
+    "id": "word-612",
+    "korean": "중국",
+    "level": "1급",
+    "imagePrompt": "China",
+    "imageSrc": "/cards/generated/word-612.png"
+  },
+  {
+    "id": "word-613",
+    "korean": "지갑",
+    "level": "1급",
+    "imagePrompt": "wallet",
+    "imageSrc": "/cards/generated/word-613.png"
+  },
+  {
+    "id": "word-616",
+    "korean": "지난달",
+    "level": "1급",
+    "imagePrompt": "last month",
+    "imageSrc": "/cards/generated/word-616.png"
+  },
+  {
+    "id": "word-617",
+    "korean": "지난주",
+    "level": "1급",
+    "imagePrompt": "last week",
+    "imageSrc": "/cards/generated/word-617.png"
+  },
+  {
+    "id": "word-618",
+    "korean": "지난해",
+    "level": "1급",
+    "imagePrompt": "last year",
+    "imageSrc": "/cards/generated/word-618.png"
+  },
+  {
+    "id": "word-620",
+    "korean": "지우개",
+    "level": "1급",
+    "imagePrompt": "eraser",
+    "imageSrc": "/cards/generated/word-620.png"
+  },
+  {
+    "id": "word-621",
+    "korean": "지하철",
+    "level": "1급",
+    "imagePrompt": "subway",
+    "imageSrc": "/cards/generated/word-621.png"
+  },
+  {
+    "id": "word-622",
+    "korean": "지하철역",
+    "level": "1급",
+    "imagePrompt": "subway station",
+    "imageSrc": "/cards/generated/word-622.png"
+  },
+  {
+    "id": "word-623",
+    "korean": "직업",
+    "level": "1급",
+    "imagePrompt": "occupation",
+    "imageSrc": "/cards/generated/word-623.png"
+  },
+  {
+    "id": "word-624",
+    "korean": "직원",
+    "level": "1급",
+    "imagePrompt": "employee",
+    "imageSrc": "/cards/generated/word-624.png"
+  },
+  {
+    "id": "word-625",
+    "korean": "질문",
+    "level": "1급",
+    "imagePrompt": "question",
+    "imageSrc": "/cards/generated/word-625.png"
+  },
+  {
+    "id": "word-626",
+    "korean": "집",
+    "level": "1급",
+    "imagePrompt": "house",
+    "imageSrc": "/cards/generated/word-626.png"
+  },
+  {
+    "id": "word-632",
+    "korean": "창문",
+    "level": "1급",
+    "imagePrompt": "window",
+    "imageSrc": "/cards/generated/word-632.png"
+  },
+  {
+    "id": "word-635",
+    "korean": "책",
+    "level": "1급",
+    "imagePrompt": "books",
+    "imageSrc": "/cards/generated/word-635.png"
+  },
+  {
+    "id": "word-636",
+    "korean": "책상",
+    "level": "1급",
+    "imagePrompt": "desk",
+    "imageSrc": "/cards/generated/word-636.png"
+  },
+  {
+    "id": "word-641",
+    "korean": "청소",
+    "level": "1급",
+    "imagePrompt": "cleaning",
+    "imageSrc": "/cards/generated/word-641.png"
+  },
+  {
+    "id": "word-642",
+    "korean": "초대",
+    "level": "1급",
+    "imagePrompt": "invitation",
+    "imageSrc": "/cards/generated/word-642.png"
+  },
+  {
+    "id": "word-643",
+    "korean": "초콜릿",
+    "level": "1급",
+    "imagePrompt": "chocolate",
+    "imageSrc": "/cards/generated/word-643.png"
+  },
+  {
+    "id": "word-645",
+    "korean": "축구",
+    "level": "1급",
+    "imagePrompt": "soccer",
+    "imageSrc": "/cards/generated/word-645.png"
+  },
+  {
+    "id": "word-646",
+    "korean": "축하",
+    "level": "1급",
+    "imagePrompt": "congratulations",
+    "imageSrc": "/cards/generated/word-646.png"
+  },
+  {
+    "id": "word-647",
+    "korean": "출발",
+    "level": "1급",
+    "imagePrompt": "departure",
+    "imageSrc": "/cards/generated/word-647.png"
+  },
+  {
+    "id": "word-648",
+    "korean": "춤",
+    "level": "1급",
+    "imagePrompt": "dance",
+    "imageSrc": "/cards/generated/word-648.png"
+  },
+  {
+    "id": "word-651",
+    "korean": "취미",
+    "level": "1급",
+    "imagePrompt": "hobby",
+    "imageSrc": "/cards/generated/word-651.png"
+  },
+  {
+    "id": "word-652",
+    "korean": "층",
+    "level": "1급",
+    "imagePrompt": "layer",
+    "imageSrc": "/cards/generated/word-652.png"
+  },
+  {
+    "id": "word-654",
+    "korean": "치마",
+    "level": "1급",
+    "imagePrompt": "skirt",
+    "imageSrc": "/cards/generated/word-654.png"
+  },
+  {
+    "id": "word-656",
+    "korean": "친절",
+    "level": "1급",
+    "imagePrompt": "kindness",
+    "imageSrc": "/cards/generated/word-656.png"
+  },
+  {
+    "id": "word-660",
+    "korean": "칠월",
+    "level": "1급",
+    "imagePrompt": "July",
+    "imageSrc": "/cards/generated/word-660.png"
+  },
+  {
+    "id": "word-661",
+    "korean": "칠판",
+    "level": "1급",
+    "imagePrompt": "blackboard",
+    "imageSrc": "/cards/generated/word-661.png"
+  },
+  {
+    "id": "word-662",
+    "korean": "침대",
+    "level": "1급",
+    "imagePrompt": "bed",
+    "imageSrc": "/cards/generated/word-662.png"
+  },
+  {
+    "id": "word-663",
+    "korean": "카드",
+    "level": "1급",
+    "imagePrompt": "card",
+    "imageSrc": "/cards/generated/word-663.png"
+  },
+  {
+    "id": "word-664",
+    "korean": "카메라",
+    "level": "1급",
+    "imagePrompt": "camera",
+    "imageSrc": "/cards/generated/word-664.png"
+  },
+  {
+    "id": "word-665",
+    "korean": "캐나다",
+    "level": "1급",
+    "imagePrompt": "Canada",
+    "imageSrc": "/cards/generated/word-665.png"
+  },
+  {
+    "id": "word-666",
+    "korean": "커피",
+    "level": "1급",
+    "imagePrompt": "coffee fruit",
+    "imageSrc": "/cards/generated/word-666.png"
+  },
+  {
+    "id": "word-667",
+    "korean": "커피숍",
+    "level": "1급",
+    "imagePrompt": "coffee shop",
+    "imageSrc": "/cards/generated/word-667.png"
+  },
+  {
+    "id": "word-668",
+    "korean": "컴퓨터",
+    "level": "1급",
+    "imagePrompt": "computer",
+    "imageSrc": "/cards/generated/word-668.png"
+  },
+  {
+    "id": "word-669",
+    "korean": "컵",
+    "level": "1급",
+    "imagePrompt": "cup",
+    "imageSrc": "/cards/generated/word-669.png"
+  },
+  {
+    "id": "word-670",
+    "korean": "케이크",
+    "level": "1급",
+    "imagePrompt": "cake",
+    "imageSrc": "/cards/generated/word-670.png"
+  },
+  {
+    "id": "word-672",
+    "korean": "코",
+    "level": "1급",
+    "imagePrompt": "nose",
+    "imageSrc": "/cards/generated/word-672.png"
+  },
+  {
+    "id": "word-673",
+    "korean": "콘서트",
+    "level": "1급",
+    "imagePrompt": "music concert",
+    "imageSrc": "/cards/generated/word-673.png"
+  },
+  {
+    "id": "word-674",
+    "korean": "콜라",
+    "level": "1급",
+    "imagePrompt": "cola",
+    "imageSrc": "/cards/generated/word-674.png"
+  },
+  {
+    "id": "word-676",
+    "korean": "키",
+    "level": "1급",
+    "imagePrompt": "height",
+    "imageSrc": "/cards/generated/word-676.png"
+  },
+  {
+    "id": "word-679",
+    "korean": "탁구",
+    "level": "1급",
+    "imagePrompt": "table tennis",
+    "imageSrc": "/cards/generated/word-679.png"
+  },
+  {
+    "id": "word-680",
+    "korean": "태국",
+    "level": "1급",
+    "imagePrompt": "Thailand",
+    "imageSrc": "/cards/generated/word-680.png"
+  },
+  {
+    "id": "word-682",
+    "korean": "택시",
+    "level": "1급",
+    "imagePrompt": "taxi",
+    "imageSrc": "/cards/generated/word-682.png"
+  },
+  {
+    "id": "word-684",
+    "korean": "테니스",
+    "level": "1급",
+    "imagePrompt": "tennis",
+    "imageSrc": "/cards/generated/word-684.png"
+  },
+  {
+    "id": "word-685",
+    "korean": "텔레비전",
+    "level": "1급",
+    "imagePrompt": "TV",
+    "imageSrc": "/cards/generated/word-685.png"
+  },
+  {
+    "id": "word-687",
+    "korean": "퇴근",
+    "level": "1급",
+    "imagePrompt": "leaving work",
+    "imageSrc": "/cards/generated/word-687.png"
+  },
+  {
+    "id": "word-690",
+    "korean": "티셔츠",
+    "level": "1급",
+    "imagePrompt": "T-shirt",
+    "imageSrc": "/cards/generated/word-690.png"
+  },
+  {
+    "id": "word-691",
+    "korean": "파티",
+    "level": "1급",
+    "imagePrompt": "party",
+    "imageSrc": "/cards/generated/word-691.png"
+  },
+  {
+    "id": "word-692",
+    "korean": "팔",
+    "level": "1급",
+    "imagePrompt": "arm",
+    "imageSrc": "/cards/generated/word-692.png"
+  },
+  {
+    "id": "word-696",
+    "korean": "팔월",
+    "level": "1급",
+    "imagePrompt": "August",
+    "imageSrc": "/cards/generated/word-696.png"
+  },
+  {
+    "id": "word-697",
+    "korean": "편의점",
+    "level": "1급",
+    "imagePrompt": "convenience store",
+    "imageSrc": "/cards/generated/word-697.png"
+  },
+  {
+    "id": "word-698",
+    "korean": "편지",
+    "level": "1급",
+    "imagePrompt": "letter",
+    "imageSrc": "/cards/generated/word-698.png"
+  },
+  {
+    "id": "word-699",
+    "korean": "포도",
+    "level": "1급",
+    "imagePrompt": "grape",
+    "imageSrc": "/cards/generated/word-699.png"
+  },
+  {
+    "id": "word-700",
+    "korean": "표",
+    "level": "1급",
+    "imagePrompt": "ticket",
+    "imageSrc": "/cards/generated/word-700.png"
+  },
+  {
+    "id": "word-701",
+    "korean": "프랑스",
+    "level": "1급",
+    "imagePrompt": "France",
+    "imageSrc": "/cards/generated/word-701.png"
+  },
+  {
+    "id": "word-703",
+    "korean": "피곤",
+    "level": "1급",
+    "imagePrompt": "tiredness",
+    "imageSrc": "/cards/generated/word-703.png"
+  },
+  {
+    "id": "word-704",
+    "korean": "피아노",
+    "level": "1급",
+    "imagePrompt": "piano",
+    "imageSrc": "/cards/generated/word-704.png"
+  },
+  {
+    "id": "word-706",
+    "korean": "필요",
+    "level": "1급",
+    "imagePrompt": "need",
+    "imageSrc": "/cards/generated/word-706.png"
+  },
+  {
+    "id": "word-710",
+    "korean": "하루",
+    "level": "1급",
+    "imagePrompt": "day",
+    "imageSrc": "/cards/generated/word-710.png"
+  },
+  {
+    "id": "word-711",
+    "korean": "하숙집",
+    "level": "1급",
+    "imagePrompt": "boarding house",
+    "imageSrc": "/cards/generated/word-711.png"
+  },
+  {
+    "id": "word-714",
+    "korean": "학생",
+    "level": "1급",
+    "imagePrompt": "student",
+    "imageSrc": "/cards/generated/word-714.png"
+  },
+  {
+    "id": "word-715",
+    "korean": "학생증",
+    "level": "1급",
+    "imagePrompt": "student identification",
+    "imageSrc": "/cards/generated/word-715.png"
+  },
+  {
+    "id": "word-718",
+    "korean": "한국",
+    "level": "1급",
+    "imagePrompt": "Korea",
+    "imageSrc": "/cards/generated/word-718.png"
+  },
+  {
+    "id": "word-719",
+    "korean": "한복",
+    "level": "1급",
+    "imagePrompt": "hanbok",
+    "imageSrc": "/cards/generated/word-719.png"
+  },
+  {
+    "id": "word-720",
+    "korean": "할머니",
+    "level": "1급",
+    "imagePrompt": "grandmother",
+    "imageSrc": "/cards/generated/word-720.png"
+  },
+  {
+    "id": "word-721",
+    "korean": "할아버지",
+    "level": "1급",
+    "imagePrompt": "grandfather",
+    "imageSrc": "/cards/generated/word-721.png"
+  },
+  {
+    "id": "word-723",
+    "korean": "형",
+    "level": "1급",
+    "imagePrompt": "older brother",
+    "imageSrc": "/cards/generated/word-723.png"
+  },
+  {
+    "id": "word-725",
+    "korean": "호텔",
+    "level": "1급",
+    "imagePrompt": "hotel",
+    "imageSrc": "/cards/generated/word-725.png"
+  },
+  {
+    "id": "word-728",
+    "korean": "화장실",
+    "level": "1급",
+    "imagePrompt": "toilet",
+    "imageSrc": "/cards/generated/word-728.png"
+  },
+  {
+    "id": "word-729",
+    "korean": "회사",
+    "level": "1급",
+    "imagePrompt": "company",
+    "imageSrc": "/cards/generated/word-729.png"
+  },
+  {
+    "id": "word-730",
+    "korean": "회사원",
+    "level": "1급",
+    "imagePrompt": "employee",
+    "imageSrc": "/cards/generated/word-730.png"
+  },
+  {
+    "id": "word-731",
+    "korean": "회의",
+    "level": "1급",
+    "imagePrompt": "meeting",
+    "imageSrc": "/cards/generated/word-731.png"
+  },
+  {
+    "id": "word-732",
+    "korean": "후",
+    "level": "1급",
+    "imagePrompt": "later time",
+    "imageSrc": "/cards/generated/word-732.png"
+  },
+  {
+    "id": "word-733",
+    "korean": "휴가",
+    "level": "1급",
+    "imagePrompt": "leave",
+    "imageSrc": "/cards/generated/word-733.png"
+  },
+  {
+    "id": "word-741",
+    "korean": "가슴",
+    "level": "2급",
+    "imagePrompt": "chest",
+    "imageSrc": "/cards/generated/word-741.png"
+  },
+  {
+    "id": "word-742",
+    "korean": "가위",
+    "level": "2급",
+    "imagePrompt": "scissors",
+    "imageSrc": "/cards/generated/word-742.png"
+  },
+  {
+    "id": "word-748",
+    "korean": "간식",
+    "level": "2급",
+    "imagePrompt": "snack",
+    "imageSrc": "/cards/generated/word-748.png"
+  },
+  {
+    "id": "word-749",
+    "korean": "간장",
+    "level": "2급",
+    "imagePrompt": "soy sauce",
+    "imageSrc": "/cards/generated/word-749.png"
+  },
+  {
+    "id": "word-750",
+    "korean": "간호사",
+    "level": "2급",
+    "imagePrompt": "nurse",
+    "imageSrc": "/cards/generated/word-750.png"
+  },
+  {
+    "id": "word-751",
+    "korean": "갈색",
+    "level": "2급",
+    "imagePrompt": "brown",
+    "imageSrc": "/cards/generated/word-751.png"
+  },
+  {
+    "id": "word-753",
+    "korean": "감기약",
+    "level": "2급",
+    "imagePrompt": "cold medicine",
+    "imageSrc": "/cards/generated/word-753.png"
+  },
+  {
+    "id": "word-756",
+    "korean": "감자",
+    "level": "2급",
+    "imagePrompt": "potato",
+    "imageSrc": "/cards/generated/word-756.png"
+  },
+  {
+    "id": "word-758",
+    "korean": "강",
+    "level": "2급",
+    "imagePrompt": "river",
+    "imageSrc": "/cards/generated/word-758.png"
+  },
+  {
+    "id": "word-759",
+    "korean": "강아지",
+    "level": "2급",
+    "imagePrompt": "puppy",
+    "imageSrc": "/cards/generated/word-759.png"
+  }
+]
