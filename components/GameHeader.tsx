@@ -59,8 +59,14 @@ export function GameHeader({
         />
         <div className="title-block">
           <span className="company-name">한국어교육AI연구개발원</span>
-          <h1>시나브로</h1>
-          <p>단어 퍼즐게임</p>
+          <h1>
+            <span>
+              Sina
+              <span style={{ color: "#22c55e", fontWeight: "bold" }}>V</span>
+              ro
+            </span>
+          </h1>
+          <p>Visual Vocabulary for Korean Learners</p>
         </div>
       </div>
 
