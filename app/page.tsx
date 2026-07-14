@@ -43,6 +43,13 @@ export default function Home() {
         tiles={game.tiles}
         onTileClick={game.selectTile}
       />
+      <footer className="company-footer">
+        <a href="https://onmaeumkr.com" target="_blank" rel="noreferrer">
+          <img src="/brand/onmaeum-korean-logo.png" alt="한국어교육AI연구개발원" />
+          <strong>한국어교육AI연구개발원</strong>
+          <span>onmaeumkr.com</span>
+        </a>
+      </footer>
       <CardPreviewModal
         selectedLanguage={selectedLanguage}
         showTranslations={showTranslations}

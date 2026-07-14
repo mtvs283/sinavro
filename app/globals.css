@@ -76,6 +76,13 @@ button {
   background: #ffffff;
 }
 
+.sinavro-brand-logo {
+  width: 54px;
+  height: 54px;
+  border-radius: 14px;
+  background: #000000;
+}
+
 .company-name {
   display: block;
   margin-bottom: 4px;
@@ -128,6 +135,11 @@ button {
   flex-wrap: wrap;
   justify-content: flex-end;
   gap: 8px;
+}
+
+.mobile-actions,
+.language-sheet-backdrop {
+  display: none;
 }
 
 .language-control {
@@ -194,6 +206,44 @@ button {
   justify-content: center;
   width: 100%;
   padding: 28px 16px 40px;
+}
+
+.company-footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 0 16px 32px;
+}
+
+.company-footer a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  color: #f5f7f4;
+  text-align: center;
+  text-decoration: none;
+}
+
+.company-footer img {
+  width: clamp(64px, 10vw, 104px);
+  height: clamp(64px, 10vw, 104px);
+  border-radius: 50%;
+  background: #ffffff;
+  object-fit: contain;
+}
+
+.company-footer strong {
+  font-size: clamp(14px, 1.7vw, 19px);
+}
+
+.company-footer span {
+  color: var(--muted);
+  font-size: clamp(12px, 1.3vw, 15px);
+}
+
+.company-footer a:hover span {
+  color: #70c69e;
 }
 
 .board {
@@ -479,17 +529,25 @@ button {
 }
 
 @media (max-width: 520px) {
+  .game-header {
+    position: relative;
+    z-index: 2000;
+    gap: 7px;
+    padding: 8px;
+  }
+
   .title-block h1 {
-    font-size: 20px;
+    font-size: 19px;
   }
 
   .brand-title {
     gap: 8px;
   }
 
-  .institute-logo {
-    width: 42px;
-    height: 42px;
+  .sinavro-brand-logo {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
   }
 
   .company-name {
@@ -497,47 +555,222 @@ button {
   }
 
   .title-block p {
-    display: none;
+    display: block;
+    margin-top: 3px;
+    font-size: 10px;
+    line-height: 1.15;
   }
 
   .stats {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 4px;
   }
 
   .stat {
     min-width: 0;
-    padding: 7px 8px;
+    padding: 5px 4px;
+    border-radius: 7px;
+    text-align: center;
+  }
+
+  .stat span {
+    overflow: hidden;
+    font-size: 9px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .stat strong {
-    font-size: 15px;
+    overflow: hidden;
+    margin-top: 2px;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
-  .actions {
+  .desktop-actions {
+    display: none;
+  }
+
+  .mobile-actions {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) minmax(92px, 1.35fr) 42px;
+    gap: 5px;
+    width: 100%;
+  }
+
+  .mobile-actions > button,
+  .more-menu-trigger {
+    min-width: 0;
+    min-height: 38px;
+    padding: 0 6px;
+    overflow: hidden;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .mobile-language-trigger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+  }
+
+  .mobile-language-trigger span:last-child {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .more-menu-wrap {
+    position: relative;
+  }
+
+  .more-menu-trigger {
+    width: 100%;
+    font-size: 23px;
+    line-height: 1;
+  }
+
+  .more-menu {
+    position: absolute;
+    top: calc(100% + 6px);
+    right: 0;
+    z-index: 60;
+    display: grid;
+    gap: 7px;
+    width: min(260px, calc(100vw - 16px));
+    padding: 10px;
+    border: 1px solid #3b474d;
+    border-radius: 12px;
+    background: #171e22;
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.48);
+  }
+
+  .more-menu button {
+    width: 100%;
+    min-height: 40px;
+  }
+
+  .more-difficulty-control {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    gap: 10px;
+    min-height: 40px;
+    padding: 0 9px;
+    border: 1px solid #38444b;
+    border-radius: 8px;
+    background: #222b30;
+  }
+
+  .more-difficulty-control span {
+    color: var(--muted);
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+  .more-difficulty-control select {
+    min-width: 0;
+    border: 0;
+    background: transparent;
+    color: #f5f7f4;
+    font: inherit;
+    font-size: 13px;
+    outline: 0;
+  }
+
+  .more-difficulty-control option {
+    color: #172016;
+  }
+
+  .language-sheet-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: flex;
+    align-items: flex-end;
+    background: rgba(0, 0, 0, 0.62);
+  }
+
+  .language-sheet {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-height: 72vh;
+    padding: 10px 12px max(14px, env(safe-area-inset-bottom));
+    border: 1px solid #405049;
+    border-bottom: 0;
+    border-radius: 20px 20px 0 0;
+    background: #171e22;
+    box-shadow: 0 -20px 48px rgba(0, 0, 0, 0.5);
+  }
+
+  .language-sheet::before {
+    width: 42px;
+    height: 4px;
+    margin: 0 auto 8px;
+    border-radius: 999px;
+    background: #69766f;
+    content: "";
+  }
+
+  .language-sheet-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+
+  .language-sheet-header h2 {
+    margin: 0;
+    font-size: 18px;
+  }
+
+  .language-sheet-header button {
+    width: 38px;
+    height: 38px;
+    border: 0;
+    border-radius: 50%;
+    background: #283239;
+    color: #ffffff;
+    font-size: 25px;
+    line-height: 1;
+  }
+
+  .language-sheet-list {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 7px;
+    overflow-y: auto;
+    overscroll-behavior: contain;
   }
 
-  .language-control {
-    min-width: 0;
-    min-height: 42px;
-    padding: 0 8px;
+  .language-sheet-list button {
+    min-height: 43px;
+    padding: 6px 10px;
+    border: 1px solid #38444b;
+    border-radius: 10px;
+    background: #222b30;
+    color: #f5f7f4;
+    font: inherit;
+    font-size: 13px;
   }
 
-  .language-control select {
-    max-width: 100%;
-    min-width: 0;
-  }
-
-  .actions button {
-    min-width: 0;
-    min-height: 42px;
-    padding: 0 8px;
+  .language-sheet-list button.selected {
+    border-color: #70c69e;
+    background: #244f3d;
+    color: #ffffff;
+    font-weight: 700;
   }
 
   .board-wrap {
     align-items: flex-start;
     padding: 10px 8px 18px;
+  }
+
+  .company-footer {
+    padding: 4px 12px 24px;
   }
 
   .board {
